@@ -1,6 +1,3 @@
-<head> 
-<meta name="google-site-verification" content="wrQVlBOljei1ogsYsksqS4wPIz3UUDnKYgJZztZv09g" />
-</head>
 # Mask Screen
 ## Mask Screen version info :
 ### 1.0.0003
