@@ -1,1 +1,6 @@
+OWNERDOMAIN=abega-apps.github.io
+# aBeGa App-ads.txt (https://abega-apps.github.io/app-ads.txt)
+# Contact = abega.apps@gmail.com
+
+#Mask Screen
 google.com, pub-2065356834854454, DIRECT, f08c47fec0942fa0
