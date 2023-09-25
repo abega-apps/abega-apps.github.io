@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.makeeapps.maskscreen",
+      "sha256_cert_fingerprints": [
+        "AB:90:4E:85:E2:D4:42:74:D3:36:53:2F:9E:A7:14:C6:29:B9:CC:42:32:A9:01:45:A8:9D:01:01:E0:70:F0:73",
+        "91:09:0F:5F:96:A2:50:55:9E:58:EA:97:06:AC:EE:24:EB:57:53:F3:46:B6:6F:7B:C4:A3:C5:45:FD:06:63:59"
+      ]
+    }
+  }
+]
