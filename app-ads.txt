@@ -1,4 +1,4 @@
-OWNERDOMAIN=abega-apps.github.io
+# OWNERDOMAIN=abega-apps.github.io
 # aBeGa App-ads.txt (https://abega-apps.github.io/app-ads.txt)
 # Contact = abega.apps@gmail.com
 
